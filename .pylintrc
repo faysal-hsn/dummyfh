@@ -1,0 +1,7 @@
+[BASIC]
+good-names=H,W,LEFT_IRIS,RIGHT_IRIS
+
+[MESSAGES CONTROL]
+disable=too-few-public-methods
+disable=import-error
+disable=no-member

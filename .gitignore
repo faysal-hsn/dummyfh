@@ -1,0 +1,12 @@
+*.venv*
+*.mp4
+*.mov
+*.jpg
+*.DS_Store
+*.png
+!test_crops
+*.log
+*.pyc
+*.npy
+*.txt
+outputs*

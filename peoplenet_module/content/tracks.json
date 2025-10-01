@@ -1,0 +1,21 @@
+{
+  "video_path": "./content/video.mp4",
+  "out_annotated": "./content/annotated_tracking.mp4",
+  "frames_processed": 2240,
+  "fps_source": 29.97002997002997,
+  "tracks": [],
+  "config": {
+    "CONF_THRESH": 0.4,
+    "IOU_THRESH_NMS": 0.45,
+    "SAVE_CROPS": false,
+    "MAX_FRAMES": null,
+    "TARGET_FPS_TO_PROCESS": null,
+    "FRAME_STRIDE": 1,
+    "APPEARANCE_W": 0.6,
+    "IOU_W": 0.4,
+    "MIN_MATCH_SCORE": 0.25,
+    "MAX_LOST_AGE_FRAMES": 30,
+    "FEATURE_HIST_BINS": 32,
+    "EMA_ALPHA": 0.3
+  }
+}
